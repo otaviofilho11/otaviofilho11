@@ -127,9 +127,9 @@ Entre os principais projetos destacam-se:
 
 – Desenvolvimento de uma aplicação web utilizando **HTML, CSS e JavaScript**, criada para divulgar produtos e incentivar arrecadações em apoio a uma causa de proteção animal. O projeto proporcionou experiência na construção de interfaces responsivas, manipulação do DOM e organização do código em JavaScript.
 
-**• Sistema de Gerenciamento de Estoque**
+**• API de Produtos**
 
-– Projeto desenvolvido em **JavaScript e Node.js**, com arquitetura modular, voltado ao gerenciamento de produtos e estoque. Durante o desenvolvimento foram aplicados conceitos de modularização, organização de código, manipulação de dados e versionamento com Git.
+– Desenvolvimento de uma API REST para gerenciamento de tarefas, utilizando Node.js e Express, com integração a banco de dados relacional MySQL. O projeto envolve implementação de operações CRUD (Create, Read, Update e Delete), criação e organização de rotas HTTP, manipulação de requisições e respostas JSON, operações assíncronas com Async/Await e tratamento de erros com Try/Catch..
 
 **• Sistema de Gerenciamento de Eventos em C**
 *Projeto Acadêmico – IFSP*
